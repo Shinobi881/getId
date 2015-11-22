@@ -9,4 +9,6 @@ When you clone and pull:
 
 ### TEAM:
 - Muhsin "Moose" Abdul-Musawwir
-- Colin "Call in Sick" McDonald
+- Gunther Schneider
+- Andy Lloyd
+- Colin McDonald
