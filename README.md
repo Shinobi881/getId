@@ -10,3 +10,5 @@ When you clone and pull:
 ### TEAM:
 - Muhsin "Moose" Abdul-Musawwir
 - David Tran
+- Gunther Schneider
+
