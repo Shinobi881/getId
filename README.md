@@ -9,7 +9,9 @@ When you clone and pull:
 
 ### TEAM:
 - Muhsin "Moose" Abdul-Musawwir
-- Elizabeth Biddlecome
 - Gunther Schneider
 - Andy Lloyd
 - Colin McDonald
+- Anna Ruth Crittenden
+- David Tran
+- Elizabeth Biddlecome
