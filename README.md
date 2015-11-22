@@ -9,3 +9,4 @@ When you clone and pull:
 
 ### TEAM:
 - Muhsin "Moose" Abdul-Musawwir
+- Anna-Ruth Crittenden
