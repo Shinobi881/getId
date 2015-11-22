@@ -11,3 +11,5 @@ When you clone and pull:
 - Muhsin "Moose" Abdul-Musawwir
 - Elizabeth Biddlecome
 - Gunther Schneider
+- Andy Lloyd
+- Colin McDonald
