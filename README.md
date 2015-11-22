@@ -10,3 +10,4 @@ When you clone and pull:
 ### TEAM:
 - Muhsin "Moose" Abdul-Musawwir
 - Elizabeth Biddlecome
+- Gunther Schneider
